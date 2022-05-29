@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-
-# {% include 01-name.md %}
+# Title
+{% include 01-name.md %}
 
